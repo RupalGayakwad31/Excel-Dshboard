@@ -22,6 +22,6 @@
 ### Room Type Filter: 
 #### Enables users to filter by room type (e.g., entire home, private room), aiding in category-specific insights.
 
-
-![Airbnb Dashboard Screenshot](./airbnb_dashboard_screenshot.png)
+### Dashboard
+![Screenshot 2024-11-06 160819](https://github.com/user-attachments/assets/e80038ee-8479-4aea-8f25-fb16cf7d7885)
 
