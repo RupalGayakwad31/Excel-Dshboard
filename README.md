@@ -1,5 +1,5 @@
 ## Airbnb Data Dashboard
-#### This project showcases an Airbnb data analysis dashboard designed in Excel, aimed at providing a comprehensive view of room availability, pricing trends, and popularity metrics. T
+#### This project showcases an Airbnb data analysis dashboard designed in Excel, aimed at providing a comprehensive view of room availability, pricing trends, and popularity metrics. 
 
 ## Key Features
 ### Total Number of Rooms:
